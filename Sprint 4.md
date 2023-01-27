@@ -28,7 +28,7 @@ Your Project Description goes here.
 ## Project Design
 
 
-Your Project Design information goes here
+An overview of how you are going to implement this project goes here
 
 ***
 
