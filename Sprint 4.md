@@ -44,7 +44,7 @@ For icons please refer - https://devicon.dev
 
 ### Final MVP Demo
 
-[Watch EasyWay MVP Demo]() | [Watch Integration Testing On MVP]()
+[Watch EasyWay MVP Demo]()
 
 ### Application Manuals
 
