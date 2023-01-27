@@ -60,7 +60,6 @@ For icons please refer - https://devicon.dev
 
 1. [Sprint 1 Completed Tasks]()
 2. [Sprint 2 Burndown Chart and Completed Tasks]()
-3. [Sprint 3 Burndown Chart and Completed Tasks]()
 
 ### Team Working Agreement
 
