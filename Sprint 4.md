@@ -40,11 +40,11 @@ For icons please refer - https://devicon.dev
  
 ***
 
-## EasyWay Final Application Artifacts
+## Project Name Final Application Artifacts
 
 ### Final MVP Demo
 
-[Watch EasyWay MVP Demo]()
+[Watch Project Name MVP Demo]()
 
 ### Application Manuals
 
@@ -56,7 +56,7 @@ For icons please refer - https://devicon.dev
 
 [View API Documentation]() | [View API Documentation as PDF]() | <a id="raw-url" href="">Download API Documentation as Word Document</a>
 
-#### EasyWay Technical Paper
+#### Project Name Technical Paper
 
 [View Technical Paper as PDF]() | <a id="raw-url" href="">Download Technical Paper as Word Document</a>
 
