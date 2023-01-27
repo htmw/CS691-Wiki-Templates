@@ -70,7 +70,7 @@ For icons please refer - https://devicon.dev
 
 ### Architecture Diagram
 
-[Conceptual Architecture Diagram]()| [Sequence Diagram]() | [Entity Relationship Diagram (ERD)]() | [Use Case Diagram ]()
+[Conceptual Architecture Diagram]()| [Sequence Diagram]()
 
 ***
 
