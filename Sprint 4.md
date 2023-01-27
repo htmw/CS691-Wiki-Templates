@@ -104,7 +104,7 @@ For icons please refer - https://devicon.dev
 
 ### Architecture Diagram
 
-[Conceptual Architecture Diagram]()| [Sequence Diagram]() | [Class Diagram (UML Diagram))]() | [Use Case Diagram ]()
+[Conceptual Architecture Diagram]()| [Sequence Diagram]() | [Class Diagram (UML Diagram)]() | [Use Case Diagram ]()
 
 ***
 
