@@ -48,9 +48,9 @@ For icons please refer - https://devicon.dev
 
 ### Application Manuals
 
-#### Installation Manual
+#### Deployment Manual
 
-[View Installation Manual]() | [View Installation Manual as PDF]() | <a id="raw-url" href="">Download Installation Manual as Word Document</a>
+[View Deployment Manual]() | [View Deployment Manual as PDF]() | <a id="raw-url" href="">Download Deployment Manual as Word Document</a>
 
 #### API Documentation
 
